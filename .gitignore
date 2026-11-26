@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# PyCaret / tool output
+logs.log
+catboost_info/
+
+# PyCharm project settings
+.idea/
+run*.txt
